@@ -5,3 +5,4 @@ https://youtu.be/jYzYWbfNCIk?list=UUZwRTPUJuKuaxMam0xOY50Q
 
 <h1>ScreenShots</h1>
 ![Alt text](/device-2017-08-02-150424.png?raw=true "Screenshot")
+<img src="/device-2017-08-02-150424.png"/>
